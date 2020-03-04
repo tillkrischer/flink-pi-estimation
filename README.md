@@ -1,6 +1,6 @@
 # flink-pi-estimation
 
-This is one of the official examples for flink repacked as an individual project.\
+This is one of the official examples for flink repacked as an individual project.
 
 The goal is just to waste time by estimating pie. 
 
